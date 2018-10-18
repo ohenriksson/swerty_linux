@@ -1,0 +1,10 @@
+sdfsdfsd    
+<layout>
+      <configItem>
+        <name>se</name>
+        <shortDescription>Swe</shortDescription>
+        <description>Sweden</description>
+        <languageList><iso639Id>swe</iso639Id></languageList>
+      </configItem>
+      <variantList>
+     </variantList>
